@@ -2,7 +2,6 @@ Olá, meu nome é Bruno Ares!
 
 - Interesses: Microcontroladores, otimização de memória. 
 - Aprendendo atualmente: Desenvolvimento de Sistemas, Microcontroladores
-- 💞️ I’m looking to collaborate on ...
 - Hobbies: Jogos de carta, RPGs de mesa
 - Contatos:
   -> Email - brunoares2005@gmail.com
